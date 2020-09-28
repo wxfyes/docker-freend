@@ -24,19 +24,3 @@
   options:
     url: https://fanqiangdang.com/forum-48-1.html
 
-# 某个网站抓取
-- type: subscribe
-  options:
-    url: https://pp.xbin.xyz/vmess/sub
-# 某个网站抓取
-- type: subscribe
-  options:
-    url: https://pp.xbin.xyz/sip002/sub
-# 某个网站抓取
-- type: subscribe
-  options:
-    url: https://pp.xbin.xyz/ss/sub
-# 某个网站抓取
-- type: subscribe
-  options:
-    url: https://pp.xbin.xyz/ssr/sub
